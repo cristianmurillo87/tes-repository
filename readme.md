@@ -7,10 +7,12 @@ Follow this simple steps in order to install the source files.
 
 ***
 source venv/lib/activate
+***
 pip install Flask
+***
 python app.py
 ***
 
-##Description
+## Description
 
-##Implementation
+## Implementation
